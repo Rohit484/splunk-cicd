@@ -1,0 +1,32 @@
+{
+    "schemaVersion": "2.0.0",
+    "info": {
+        "title": "My Splunk App",
+        "id": {
+            "name": "my_splunk_app",
+            "version": "1.0.0"
+        },
+        "author": [
+            {
+                "name": "Rohit"
+            }
+        ],
+        "releaseDate": null,
+        "description": "My Splunk CI/CD App",
+        "classification": {
+            "intendedAudience": "IT Ops",
+            "categories": [],
+            "developmentStatus": "production"
+        },
+        "commonInformationModels": null,
+        "license": {
+            "name": "Apache-2.0"
+        },
+        "privacyPolicy": null
+    },
+    "dependencies": {},
+    "tasks": [],
+    "inputGroups": {},
+    "targetWorkloads": [],
+    "supportedDeployments": ["_standalone", "_distributed"]
+}
